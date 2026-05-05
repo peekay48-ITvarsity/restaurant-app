@@ -100,7 +100,7 @@ header img {
 .sectionOne {
   color: white;
   position: relative;
-  background: url("../assets/Restaur.mp4") repeat center center fixed;
+  background: url("images/Restaur.mp4") repeat center center fixed;
   background-size: cover;
   background-position-y: bottom;
   height: 100%;
